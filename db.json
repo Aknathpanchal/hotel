@@ -1,4 +1,5 @@
-[
+{
+    "data":[
     {
       "category": "",
       "image_url": "",
@@ -10,3 +11,4 @@
           "booked":false
     }
   ]
+}
